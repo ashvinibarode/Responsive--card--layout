@@ -2,13 +2,6 @@
 
 A beautiful and fully responsive **card layout design** built using HTML and CSS.  
 Each card includes an image, name/title, and hover transitions for a modern interactive feel.  
-Perfect for portfolios, team sections, or product showcases.
-
----
-
-## 📸 **Preview**
-
-![Preview](https://github.com/ashvinibarode/Responsive--card--layout/blob/main/Screenshot%202025-11-01%20182442.png?raw=true)
 
 ---
 
@@ -26,7 +19,6 @@ It also includes smooth hover transitions to enhance user interaction and aesthe
 ✅ Responsive grid layout (mobile-friendly)  
 ✅ Smooth hover transitions on images and text  
 ✅ Center-aligned layout with consistent spacing  
-✅ Fully customizable (add any number of cards)  
 
 ---
 
