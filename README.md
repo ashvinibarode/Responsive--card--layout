@@ -8,7 +8,7 @@ Perfect for portfolios, team sections, or product showcases.
 
 ## 📸 **Preview**
 
-![Preview](https://via.placeholder.com/900x400?text=Responsive+Card+Layout+Preview)
+![Preview](https://github.com/ashvinibarode/Responsive--card--layout/blob/main/Screenshot%202025-11-01%20182442.png?raw=true)
 
 ---
 
